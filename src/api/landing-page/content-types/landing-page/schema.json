@@ -20,7 +20,7 @@
         "images"
       ]
     },
-    "sectionHero": {
+    "header": {
       "displayName": "header",
       "type": "component",
       "repeatable": false,
